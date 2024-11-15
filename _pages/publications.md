@@ -1,16 +1,9 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+layout: home
+title: "Welcome to Aayush Agrawal's Research Portfolio"
+permalink: /
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+I am a robotics researcher with expertise in autonomous systems, surgical robotics, and affordable automation solutions tailored to developing countries. My work focuses on tackling real-world challenges through advanced robotics and AI. 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Check out my [publications](/publications), [projects](/projects), and [CV](/cv) to learn more about my work.
