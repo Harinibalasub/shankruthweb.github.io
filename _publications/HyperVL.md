@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2024-10-05-hypervl-sim
 excerpt: 'This paper introduces HyperVL Sim, a hyper-realistic simulation platform leveraging Neural Radiance Fields (NeRF) and Gaussian Splatting for autonomous vehicle testing.'
 date: 2024-10-05
-venue: 'AAAI 2025 (Under Review)'
-paperurl: 'http://example.com/hypervl-sim-paper.pdf'
+venue: 'Under Review @ AAAI 2025'
+# paperurl: 'http://example.com/hypervl-sim-paper.pdf'
 citation: 'Aayush Agrawal, et al. (2024). &quot;HyperVL Sim: Hyper-Realistic Simulation for Autonomous Vehicles Using Neural Radiance Fields.&quot; <i>AAAI Conference on Artificial Intelligence</i>.'
 ---
 
