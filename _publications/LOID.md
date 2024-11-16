@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-10-11-loid
 excerpt: 'This paper introduces the LOID algorithm, a robust solution for handling lane occlusions in autonomous driving scenarios using advanced vision techniques.'
 date: 2024-10-11
-venue: 'AAAI 2025 (Under Review)'
+venue: 'Under Review @ Jounral Of Machine Vision and Applications'
 paperurl: 'http://example.com/loid-paper.pdf'
 citation: 'Aayush Agrawal, et al. (2024). &quot;Lane Occlusion Inpainting and Detection (LOID).&quot; <i>AAAI Conference on Artificial Intelligence</i>.'
 ---
