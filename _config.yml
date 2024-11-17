@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aayush Agrawal"
+title                    : "Shankruth Balasubramaniyam"
 title_separator          : "-"
-name                     : &name "Aayush Agrawal"
+name                     : &name "Shankruth Balasubramaniyam"
 description              : &description "Robotics and Artificial Intelligence"
 url                      : https://aayushagrawal2003.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "AayushAgrawal2003/AayushAgrawal2003.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Aayush Agrawal"
+  name             : "Shankruth Balasubramaniyam"
   pronouns         : # example: "she/her"  
   bio              : "Robotics and Artificial Intelligence"
   location         : "India"
